@@ -19,6 +19,7 @@ This project contains screens for the key flows of the application, ranging from
 - GTL on envento element with minimum price ($5) equally distributed to all author
 
 
+
 ## Authors
 
 - [@Bhargav Sejpal](https://github.com/bhargav6744)
@@ -27,7 +28,9 @@ This project contains screens for the key flows of the application, ranging from
 
 ## Contributing
 
-Contributions are always welcome!
+Contributions are always welcome! 
+
+Would be happy to welcome person who can create SwiftUI version of the same app.
 
 Please adhere to this project's `code of conduct`.
 
